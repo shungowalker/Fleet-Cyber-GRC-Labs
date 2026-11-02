@@ -1,6 +1,6 @@
 # PCI-DSS | Fleet Cybersecurity & Automotive GRC Labs
 
-Hands-on lab portfolio from the **Fleet Cybersecurity & Automotive GRC Practitioner** program (16 weeks). Each week applies governance, risk and compliance practice to trucking and fleet operations: asset management, evidence quality, supplier assurance and payment-card scoping.
+Hands-on lab portfolio from the **Fleet Cybersecurity & Automotive GRC**. Each week applies governance, risk and compliance practice to trucking and fleet operations: asset management, evidence quality, supplier assurance and payment-card scoping.
 
 > **All scenarios are fictional training cases.** Company names, people and control IDs are synthetic. No real personal, customer or confidential data is included.
 
